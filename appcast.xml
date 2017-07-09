@@ -6,7 +6,8 @@
 		<description></description>
 		<language>en</language>
 		<item>
-			<title>Highlight for Mac 1.1</title>
+			<title>Highlight for Mac 1.1.0</title>
+			<sparkle:version>1.1.0</sparkle:version>
 			<description>
 			<![CDATA[
 				<ul>
