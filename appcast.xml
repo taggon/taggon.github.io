@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>App Changelog</title>
+		<link></link>
+		<description></description>
+		<language>en</language>
+		<item>
+			<title>Highlight for Mac 1.1</title>
+			<description>
+			<![CDATA[
+				<ul>
+					<li>Add support line numbers options</li>
+					<li>Add automatic updates</li>
+				</ul>
+			]]>
+			</description>
+			<description xml:lang="ko">
+			<![CDATA[
+				<ul>
+					<li>줄 번호 기능 추가</li>
+					<li>자동 업데이트 지원</li>
+				</ul>
+			]]>
+			</decription>
+			<pubDate>Sun, 9 Jul 2017 23:00:00 +0900</pubDate>
+			<enclosure
+				url="https://github.com/taggon/highlight-for-mac/releases/download/v1.1.0/Highlight.zip"
+				sparkle:version="1.1.0"
+				length=""
+				type="application/octet-steram"
+				sparkle:dsaSignature=""
+			/>
+		</item>
+	</channel>
+</rss>
