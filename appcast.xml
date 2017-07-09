@@ -7,7 +7,7 @@
 		<language>en</language>
 		<item>
 			<title>Highlight for Mac 1.1.0</title>
-			<description>
+			<description xml:lang="en">
 			<![CDATA[
 				<ul>
 					<li>Add support line numbers options</li>
