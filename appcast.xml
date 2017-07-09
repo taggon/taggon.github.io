@@ -7,7 +7,6 @@
 		<language>en</language>
 		<item>
 			<title>Highlight for Mac 1.1.0</title>
-			<sparkle:version>1.1.0</sparkle:version>
 			<description>
 			<![CDATA[
 				<ul>
@@ -27,10 +26,10 @@
 			<pubDate>Sun, 9 Jul 2017 23:00:00 +0900</pubDate>
 			<enclosure
 				url="https://github.com/taggon/highlight-for-mac/releases/download/v1.1.0/Highlight.zip"
-				sparkle:version="1.1.0"
-				length=""
+				sparkle:version="101"
+				length="4013952"
 				type="application/octet-steram"
-				sparkle:dsaSignature=""
+				sparkle:dsaSignature="MCwCFCnzmhNsPDj5WxgeIzT0r5/61XpCAhRHxuIf6YuhiDzNIa6paDOG1p9BWg=="
 			/>
 		</item>
 	</channel>
