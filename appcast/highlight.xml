@@ -6,7 +6,7 @@
 		<description></description>
 		<language>en</language>
 		<item>
-			<title>Highlight for Mac 1.3.0</title>
+			<title>Highlight v1.4.0</title>
 			<description xml:lang="en">
 			<![CDATA[
 				<strong>Key Changes:</strong>
@@ -33,9 +33,9 @@
 				</ul>
 			]]>
 			</description>
-			<pubDate>Sun, 9 Jul 2017 23:00:00 +0900</pubDate>
+			<pubDate>Fri, 15 Jul 2017 02:00:00 +0900</pubDate>
 			<enclosure
-				url="https://github.com/taggon/highlight-for-mac/releases/download/v1.4.0/Highlight.zip"
+				url="https://github.com/taggon/highlight/releases/download/v1.4.0/Highlight_v1.4.0.zip"
 				sparkle:version="170712.1"
 				sparkle:shortVersionString="1.4.0"
 				length="4323029"
