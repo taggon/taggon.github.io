@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>App Changelog for Highlight</title>
-		<link></link>
-		<description></description>
+		<link>https://github.com/taggon/highlight</link>
+		<description>Rich featured syntax highlighter for Keynote slides</description>
 		<language>en</language>
 		<item>
-			<title>Highlight v1.4.1</title>
+			<title>Highlight v1.4.3</title>
 			<description xml:lang="en">
 			<![CDATA[
 				<strong>Key Changes:</strong>
 				<ul>
-					<li>Hide Preferences dialog on startup</li>
+					<li>Support Turkish and Chinese(simplified) languages</li>
+					<li>Fixed crashing when triggering global hotkey</li>
 				</ul>
 			]]>
 			</description>
@@ -19,18 +20,19 @@
 			<![CDATA[
 				<strong>주요 변경 사항</strong>
 				<ul>
-					<li>시작시 환경설정 대화상자가 나타나지 않도록 수정</li>
+					<li>터키어와 중국어(간체) 지원</li>
+					<li>전역 단축키 사용시 앱이 종료되던 현상 수정</li>
 				</ul>
 			]]>
 			</description>
-			<pubDate>Fri, 14 Jul 2017 11:00:00 +0900</pubDate>
+			<pubDate>Sat, 23 Dec 2017 04:00:00 +0900</pubDate>
 			<enclosure
-				url="https://github.com/taggon/highlight/releases/download/v1.4.1/Highlight_v1.4.1.zip"
-				sparkle:version="170714.1"
-				sparkle:shortVersionString="1.4.1"
-				length="4322938"
+				url="https://github.com/taggon/highlight/releases/download/v1.4.3/Highlight_v1.4.3.zip"
+				sparkle:version="171223.1"
+				sparkle:shortVersionString="1.4.3"
+				length="5808777"
 				type="application/octet-steram"
-				sparkle:dsaSignature="MCwCFFVHFhk+5rFOUbN5w9PHlznR/eCAAhQZlA3RA9V1a6flUQsZqUwzVZS2mA=="
+				sparkle:dsaSignature="MCwCFCHRr0gFxrgTruW/wRJjRko8jIO0AhRkmbRTCsBbJSWOcXtJUj3k4ffaXw=="
 			/>
 		</item>
 	</channel>
