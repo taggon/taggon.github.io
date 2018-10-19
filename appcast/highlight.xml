@@ -6,13 +6,14 @@
 		<description>Rich featured syntax highlighter for Keynote slides</description>
 		<language>en</language>
 		<item>
-			<title>Highlight v1.4.3</title>
+			<title>Highlight v1.4.4</title>
 			<description xml:lang="en">
 			<![CDATA[
 				<strong>Key Changes:</strong>
 				<ul>
-					<li>Support Turkish and Chinese(simplified) languages</li>
-					<li>Fixed crashing when triggering global hotkey</li>
+					<li>Updated highlight.js to v9.13.1. Now we support 185 languages and 89 styles.</li>
+					<li>Updated dependencies.</li>
+					<li>Fixed potential security vulnerabilities in node packages.</li>
 				</ul>
 			]]>
 			</description>
@@ -20,19 +21,20 @@
 			<![CDATA[
 				<strong>주요 변경 사항</strong>
 				<ul>
-					<li>터키어와 중국어(간체) 지원</li>
-					<li>전역 단축키 사용시 앱이 종료되던 현상 수정</li>
+					<li>Highlight.js 버전을 v9.13.1로 업데이트했습니다. 이제 185개 언어와 89개 스타일을 지원합니다.</li>
+					<li>그 밖의 의존성 패키지도 최신 버전으로 업데이트했습니다.</li>
+					<li>노드 패키지에 있던 잠재적인 보안 취약점을 수정했습니다.</li>
 				</ul>
 			]]>
 			</description>
-			<pubDate>Sat, 23 Dec 2017 04:00:00 +0900</pubDate>
+			<pubDate>Fri, 19 Oct 2018 17:30:00 +0900</pubDate>
 			<enclosure
-				url="https://github.com/taggon/highlight/releases/download/v1.4.3/Highlight_v1.4.3.zip"
-				sparkle:version="171223.1"
-				sparkle:shortVersionString="1.4.3"
-				length="5808777"
+				url="https://github.com/taggon/highlight/releases/download/v1.4.4/Highlight_v1.4.4.zip"
+				sparkle:version="181019.1"
+				sparkle:shortVersionString="1.4.4"
+				length="6160982"
 				type="application/octet-steram"
-				sparkle:dsaSignature="MCwCFCHRr0gFxrgTruW/wRJjRko8jIO0AhRkmbRTCsBbJSWOcXtJUj3k4ffaXw=="
+				sparkle:dsaSignature="MCwCFHe8GzkxZvum8Apwm6Nrkexg0pHWAhQ5/v2+aqQRvPheieYo6zlc+Tpv6w=="
 			/>
 		</item>
 	</channel>
